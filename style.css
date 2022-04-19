@@ -9,6 +9,10 @@ body {
   margin: 0 auto;
 }
 
+.vizit {
+  column-count: 2;
+}
+
 h1 {
   text-align: center;
   font-size: 36px;
