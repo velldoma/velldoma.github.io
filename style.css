@@ -16,6 +16,7 @@ body {
 .vizit {
   column-count: 2;
   column-width: 250px;
+  column-rule: 2px solid black;
 }
 
 
