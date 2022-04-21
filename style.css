@@ -16,16 +16,17 @@ body {
 .vizit {
   column-count: 2;
   column-width: 250px;
+  column-gap: 30px;
 }
 
 
 h1 {
-  text-align: right;
+  text-align: left;
   font-size: 36px;
   margin-bottom: 0;
 }
 
 main > h2 {
-  text-align: center;
+  text-align: left;
   font-size: 25px;
 }
