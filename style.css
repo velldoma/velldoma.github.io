@@ -9,8 +9,9 @@ body {
   margin: 0 auto;
 }
 
-#photo {
-  width: 250px;
+img {
+  max-width: 250px;
+  height: auto;
 }
 
 .vizit {
