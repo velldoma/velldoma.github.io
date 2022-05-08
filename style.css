@@ -34,6 +34,8 @@ main > h2 {
   font-size: 25px;
 }
 
+/SECOND PART/
+
 a {
   color: inherit;
 }
@@ -42,14 +44,17 @@ h1 {
   font-size: 2em;
 }
 
-h2 {
+h2[second] {
   color: #00adb5;
   font-size: 1.5em;
 }
 
 .tabs {
+  box-sizing: border-box;
   width: 1024px;
   margin: 0 auto;
+  
+  background-image: linear-gradient(to right top, #222831, #282d36, #2d333b, #333841, #393e46);
 
   /* BEGIN (write your solution here) */
   column-count: 3;
